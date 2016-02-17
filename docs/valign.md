@@ -7,4 +7,4 @@
 
 <div align=center>
   <img width=0 height=200 src="../empty.gif">
-  <sup>![](../beautiful-heroes.png)
+  ![](../beautiful-heroes.png)
