@@ -1,2 +1,2 @@
 <div align=center>
-  ![](beautiful-heroes.png)
+  ![](../beautiful-heroes.png)
