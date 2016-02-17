@@ -1,5 +1,6 @@
 <div align=center>
-  <img width=0 height=500>
-  <sup><sub>
-    ![](../beautiful-heroes.png)
-  <sub></sup>
+  <img width=0 height=200>
+  <img width=100% height=0>
+  ![](../beautiful-heroes.png)
+  <img width=100% height=0>
+  <img width=0 height=200>
