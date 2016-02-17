@@ -6,5 +6,5 @@
 ---
 
 <div align=center>
-  <img height=200 src="../empty.gif">
+  <img width=0 height=200 src="../empty.gif">
   <sup>![](../beautiful-heroes.png)
