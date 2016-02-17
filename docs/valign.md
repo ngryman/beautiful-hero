@@ -1,7 +1,7 @@
 <div align=center>
   <img width=0 height=500 src="../empty.gif">
-  <sup>![](../beautiful-heroes.png)</sub>
-  <sup><sup><img width=100% height=0 src="../empty.gif"><img width=0 height=200 src="../empty.gif"></sub></sub>
+  <sup>![](../beautiful-heroes.png)</sup>
+  <sup><sup><img width=100% height=0 src="../empty.gif"><img width=0 height=200 src="../empty.gif"></sup></sup>
 
 ---
 
