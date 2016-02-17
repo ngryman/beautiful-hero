@@ -1,2 +1,2 @@
-<div valign=center height=500>
+<div align=center>
   ![](../beautiful-heroes.png)
